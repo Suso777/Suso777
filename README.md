@@ -23,7 +23,7 @@ Me interesa crear aplicaciones web:
 - Bien estructuradas
 - Con buenas prácticas desde el inicio
 
-🎯 **Objetivo:** conseguir mi primera oportunidad como **Junior Full Stack Developer**.
+🎯 **Objetivo:** Conseguir mi primera oportunidad como **Junior Full Stack Developer**.
 
 ---
 
@@ -59,12 +59,11 @@ Me interesa crear aplicaciones web:
 
 ---
 
-
-
 ## 📫 Contact
 
 - 📧 Email: **xesussuarez@gmail.com**
-- 💼 LinkedIn: (https://www.linkedin.com/in/suso-su%C3%A1rez-97557a185/)
+- 💼 LinkedIn: [linkedin.com/in/suso-suarez](https://www.linkedin.com/in/suso-su%C3%A1rez-97557a185/)
+
 
 
 ---
